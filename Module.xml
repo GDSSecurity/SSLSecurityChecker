@@ -1,0 +1,12 @@
+
+<module>
+  <name>SSLSecurityChecker</name>
+  <version>0.1</version>
+  <display_name>SSL Security Checker</display_name>
+  <author>Manish Saindane</author>
+  <project_home>https://github.com/GDSSecurity/SSLSecurityChecker</project_home>
+  <works_on_session>no</works_on_session>
+  <works_on_url>no</works_on_url>
+  <works_on_finding>no</works_on_finding>
+  <description>This is ported from the code found at http://www.bolet.org/TestSSLServer/ which was written by Thomas Pornin [pornin@bolet.org]. All credits for the orignal code goes to him.</description>
+</module>
